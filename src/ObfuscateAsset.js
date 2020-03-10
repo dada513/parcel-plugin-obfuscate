@@ -1,4 +1,4 @@
-const { Asset } = require("parcel-bundler");
+const { Asset } = require("parcel");
 const Obfuscator = require("javascript-obfuscator");
 
 class ObfuscateAsset extends Asset {

@@ -1,4 +1,4 @@
-const Bundler = require("parcel-bundler");
+const Bundler = require("parcel");
 const Path = require("path");
 const ObfuscatePlugin = require("..");
 const assertBundleTree = require("parcel-assert-bundle-tree");
